@@ -24,7 +24,7 @@ SECRET_KEY = 'ii3ot8sxr5900w^yvun+!g3e%0du090^g%iyl@vk11@_5p5p&m'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.dusensen.blog']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.dusensen.club']
 
 
 # Application definition
